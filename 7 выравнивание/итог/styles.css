@@ -1,0 +1,27 @@
+body {
+	background-color:#FAFAD2
+	
+}
+
+h1, h2, h3{
+	font-family: Sans-Serif;
+	text-align:center
+}
+
+h1 {
+	color: #00539f;
+}
+
+img{
+	height: 100px;
+	width: 100px;
+	margin-right: 20px;
+	float: left
+}
+
+div{
+	border: 3px solid;
+	background-color:green;
+	width:fit-content;
+	margin-bottom: 20px;
+}
